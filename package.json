@@ -1,0 +1,18 @@
+{
+  "name": "mutationtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.5.2"
+  },
+  "devDependencies": {
+    "@stryker-mutator/core": "^4.0.0",
+    "@stryker-mutator/karma-runner": "^4.0.0"
+  }
+}
